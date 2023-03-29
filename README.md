@@ -16,7 +16,7 @@ Maximum Bid will be applied to the control group and Average Bid to the test gro
 
 ![image](https://user-images.githubusercontent.com/79108733/228502153-1ac5baba-2d19-438a-81a5-15497798f962.png)
 
-## The following measurement methods will be used during the analysis.
+***The following measurement methods will be used during the analysis.***
 
 ## Normality Assumption 
 The normality assumption is the assumption that the data should show a normal distribution when performing a statistical analysis.

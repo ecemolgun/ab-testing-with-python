@@ -1,4 +1,4 @@
-# ab-testing-with-python
+# A/B Testing with Python
 A/B Testing with Python on a business problem.
 
 Business Problem

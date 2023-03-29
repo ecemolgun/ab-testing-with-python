@@ -25,3 +25,6 @@ The normality assumption is the assumption that the data should show a normal di
 Variance homogeneity is the assumption that the variances of the measured variables are similar between different groups used in statistical analysis. This assumption indicates that different groups are similar and comparable to each other.
 
 ## Two Independent Sample T-test (Parametric test)
+Two independent samples t-test is a statistical analysis method used to compare means between two different groups. This test can be used when sample data has a normal distribution and variances are equal.
+
+Two different sample datasets are used and sample sizes in these datasets may differ from each other.
